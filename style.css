@@ -397,6 +397,16 @@
     flex-direction: column;
     justify-content: center;
   }
+
+  .image2 {
+    margin: 8px;
+    height: 500px;
+    width: 500px;
+    border-radius: 4px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
   
   .fa-layer-group,
   .fa-users {
